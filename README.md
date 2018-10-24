@@ -1,7 +1,6 @@
-# CTF Repository
+# CTF Online Tools
 Repository to index interesting online tools.
 
-# Online Tools
 ## Platforms
 https://ctftime.org/  
 https://www.hackthebox.eu/  
@@ -9,14 +8,22 @@ https://ctflearn.com/
 https://atenea.ccn-cert.cni.es/  
 https://unaalmes.hispasec.com  
 https://www.root-me.org/  
+https://ctf365.com/
+
+## Web
+https://beautifier.io/  
+http://jsonviewer.stack.hu/  
 
 ## Reversing
 https://onlinedisassembler.com/  
 http://www.javadecompilers.com/  
+https://www.hybrid-analysis.com/  
 
 ## Cryptography
 https://gchq.github.io/CyberChef/  
+https://www.dcode.fr/tools-list#cryptography  
 http://multiencoder.com/  
+https://md5online.es/  
 https://hashgenerator.de/  
 https://cryptii.com/  
 https://geocaching.dennistreysa.de/multisolver/index.html  
@@ -28,3 +35,12 @@ http://exif.regex.info/exif.cgi
 https://incoherency.co.uk/image-steganography/  
 https://yndi.github.io/darkjpeg/  
 
+## OSINT
+https://inteltechniques.com/menu.html  
+https://ciberpatrulla.com/links/  
+https://osintframework.com/  
+
+## Write-ups
+https://ctf.courgettes.club/  
+https://ctftime.org/writeups
+https://github.com/ctfs  
