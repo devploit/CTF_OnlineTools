@@ -17,9 +17,6 @@ https://beautifier.io/
 http://jsonviewer.stack.hu/  
 https://pentest-tools.com/  
 
-## Forensics
-https://mxtoolbox.com/EmailHeaders.aspx/   
-
 ## Reversing
 https://onlinedisassembler.com/  
 http://www.javadecompilers.com/  
