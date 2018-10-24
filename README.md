@@ -17,6 +17,9 @@ https://beautifier.io/
 http://jsonviewer.stack.hu/  
 https://pentest-tools.com/  
 
+## Forensics
+https://mxtoolbox.com/EmailHeaders.aspx/   
+
 ## Reversing
 https://onlinedisassembler.com/  
 http://www.javadecompilers.com/  
@@ -26,13 +29,15 @@ https://www.hybrid-analysis.com/
 https://gchq.github.io/CyberChef/  
 https://www.dcode.fr/tools-list#cryptography  
 http://multiencoder.com/  
+https://hexed.it/  
 https://md5online.es/  
 https://hashgenerator.de/  
 https://cryptii.com/  
 https://geocaching.dennistreysa.de/multisolver/index.html  
 https://quipqiup.com/  
 http://www.crypo.com/  
-http://www.malbolge.doleczek.pl  
+http://www.malbolge.doleczek.pl/  
+http://rumkin.com/tools/cipher/  
 
 ## Steganography
 https://futureboy.us/stegano/  
@@ -49,3 +54,7 @@ https://osintframework.com/
 https://ctf.courgettes.club/  
 https://ctftime.org/writeups  
 https://github.com/ctfs  
+
+### Contributors
+@j0n3  
+@JairPalma
