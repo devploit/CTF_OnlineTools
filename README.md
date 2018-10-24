@@ -13,6 +13,7 @@ https://ctf365.com/
 ## Web
 https://beautifier.io/  
 http://jsonviewer.stack.hu/  
+https://pentest-tools.com/  
 
 ## Reversing
 https://onlinedisassembler.com/  
@@ -43,5 +44,5 @@ https://osintframework.com/
 
 ## Write-ups
 https://ctf.courgettes.club/  
-https://ctftime.org/writeups
+https://ctftime.org/writeups  
 https://github.com/ctfs  
