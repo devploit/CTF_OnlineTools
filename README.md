@@ -11,8 +11,8 @@ https://www.root-me.org/
 https://ctf365.com/
 
 ## Web
-https://requestbin.fullcontact.com/
-https://reqbin.com/
+https://requestbin.fullcontact.com/  
+https://reqbin.com/  
 https://beautifier.io/  
 http://jsonviewer.stack.hu/  
 https://pentest-tools.com/  
