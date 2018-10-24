@@ -41,6 +41,7 @@ https://futureboy.us/stegano/
 http://exif.regex.info/exif.cgi  
 https://incoherency.co.uk/image-steganography/  
 https://yndi.github.io/darkjpeg/  
+https://morsecode.scphillips.com/labs/audio-decoder-adaptive/  
 
 ## OSINT
 https://inteltechniques.com/menu.html  
