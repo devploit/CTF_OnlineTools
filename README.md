@@ -28,6 +28,7 @@ https://hashgenerator.de/
 https://cryptii.com/  
 https://geocaching.dennistreysa.de/multisolver/index.html  
 https://quipqiup.com/  
+http://www.crypo.com/  
 
 ## Steganography
 https://futureboy.us/stegano/  
