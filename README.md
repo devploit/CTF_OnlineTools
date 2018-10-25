@@ -35,6 +35,7 @@ https://quipqiup.com/
 http://www.crypo.com/  
 http://www.malbolge.doleczek.pl/  
 http://rumkin.com/tools/cipher/  
+https://summersidemakerspace.ca/projects/enigma-machine/  
 
 ## Steganography
 https://futureboy.us/stegano/  
