@@ -56,4 +56,3 @@ https://github.com/ctfs
 
 ### Contributors
 @j0n3  
-@JairPalma
