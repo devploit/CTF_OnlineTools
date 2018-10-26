@@ -43,6 +43,7 @@ http://exif.regex.info/exif.cgi
 https://incoherency.co.uk/image-steganography/  
 https://yndi.github.io/darkjpeg/  
 https://morsecode.scphillips.com/labs/audio-decoder-adaptive/  
+https://www.bertnase.de/npiet/npiet-execute.php  
 
 ## OSINT
 https://inteltechniques.com/menu.html  
