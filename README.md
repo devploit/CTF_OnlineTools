@@ -1,4 +1,6 @@
 # CTF Online Tools
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 Repository to index interesting [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_securit) online tools.
 
 ## Platforms
