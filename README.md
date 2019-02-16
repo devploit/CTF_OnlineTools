@@ -37,7 +37,8 @@ https://quipqiup.com/
 http://www.crypo.com/  
 http://www.malbolge.doleczek.pl/  
 http://rumkin.com/tools/cipher/  
-https://summersidemakerspace.ca/projects/enigma-machine/  
+https://summersidemakerspace.ca/projects/enigma-machine/
+https://www.guballa.de/vigenere-solver
 
 ## Steganography
 https://futureboy.us/stegano/  
