@@ -17,7 +17,10 @@ https://requestbin.fullcontact.com/
 https://reqbin.com/  
 https://beautifier.io/  
 http://jsonviewer.stack.hu/  
-https://pentest-tools.com/  
+https://pentest-tools.com/
+https://tableconvert.com/
+https://www.rdtoc.com/tools/jmespath
+https://www.rdtoc.com/tools/jsonpath
 
 ## Reversing
 https://onlinedisassembler.com/  
