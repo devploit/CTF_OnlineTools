@@ -26,6 +26,7 @@ https://www.rdtoc.com/tools/jsonpath
 https://onlinedisassembler.com/  
 http://www.javadecompilers.com/  
 https://www.hybrid-analysis.com/  
+https://any.run/  
 
 ## Cryptography
 https://gchq.github.io/CyberChef/  
