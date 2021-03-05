@@ -12,6 +12,9 @@ https://unaalmes.hispasec.com
 https://www.root-me.org/  
 https://ctf365.com/
 
+## Wikis
+https://wiki.devploit.dev/
+
 ## Web
 https://requestbin.fullcontact.com/  
 https://reqbin.com/  
