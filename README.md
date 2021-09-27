@@ -11,6 +11,7 @@ https://atenea.ccn-cert.cni.es/
 https://unaalmes.hispasec.com  
 https://www.root-me.org/  
 https://ctf365.com/
+https://247ctf.com/
 
 ## Wikis
 https://wiki.devploit.dev/
