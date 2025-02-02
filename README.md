@@ -3,6 +3,8 @@
 
 Repository to index interesting [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_securit) online tools.
 
+# ⚠️ Outdated, I recommend checking [awesome-ctf-resources](https://github.com/devploit/awesome-ctf-resources)
+
 ## Platforms
 https://ctftime.org/  
 https://www.hackthebox.eu/  
